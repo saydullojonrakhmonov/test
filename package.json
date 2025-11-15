@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.1",
+    "vitest": "^4.0.9"
+  },
+  "dependencies": {
+    "chromium": "^3.0.3",
+    "express": "^5.1.0",
+    "playwright": "^1.56.1"
+  }
+}
